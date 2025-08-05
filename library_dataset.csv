@@ -1,0 +1,121 @@
+Book Title,Author,Subject,Recommended Year,Branch,Availability
+Operating Systems,Morris Mano,Databases,3rd Year,IT,Not Available
+Communication Systems,Reema Thareja,Programming,3rd Year,All,Available
+Software Engineering,Galvin,Cybersecurity,3rd Year,Mechanical,Not Available
+Communication Systems,Oppenheim,Mathematics,1st Year,Mechanical,Available
+Artificial Intelligence,Achyut Godbole,Computer Science,3rd Year,All,Available
+Control Systems,Galvin,Electronics,1st Year,All,Not Available
+Compiler Design,Stuart Russell,AI/ML,2nd Year,Mechanical,Not Available
+Signals and Systems,Tanenbaum,Databases,3rd Year,IT,Not Available
+Big Data Analytics,Reema Thareja,Cloud,3rd Year,All,Not Available
+Big Data Analytics,Nagrath & Gopal,IoT,4th Year,CSE,Not Available
+Signals and Systems,Morris Mano,Computer Science,3rd Year,IT,Not Available
+Communication Systems,Nagrath & Gopal,Mathematics,4th Year,Mechanical,Available
+Artificial Intelligence,Aho & Ullman,Signal Processing,4th Year,CSE,Available
+Signals and Systems,William Stallings,Cloud,1st Year,ECE,Available
+Cloud Computing,Seema Acharya,Telecommunications,4th Year,All,Available
+Cryptography,Tanenbaum,Databases,2nd Year,All,Not Available
+Digital Electronics,Tom Mitchell,Web Development,3rd Year,IT,Not Available
+Database Management Systems,Roger Pressman,Telecommunications,4th Year,CSE,Not Available
+Cloud Computing,Ramesh Gaonkar,Cloud,1st Year,Mechanical,Not Available
+Compiler Design,Seema Acharya,Signal Processing,1st Year,All,Available
+Digital Electronics,Oppenheim,Cloud,2nd Year,CSE,Available
+Signals and Systems,Simon Haykin,Computer Science,3rd Year,Mechanical,Available
+Cloud Computing,Raj Kamal,Programming,3rd Year,Civil,Available
+Computer Networks,Raj Kamal,Telecommunications,4th Year,All,Available
+Communication Systems,Reema Thareja,Telecommunications,3rd Year,ECE,Available
+Cryptography,Roger Pressman,Cloud,4th Year,Mechanical,Not Available
+Digital Electronics,William Stallings,Mathematics,2nd Year,CSE,Available
+Software Engineering,Roger Pressman,Cloud,2nd Year,All,Available
+Operating Systems,Rajkumar Buyya,Electronics,3rd Year,EEE,Available
+Compiler Design,Stuart Russell,Programming,3rd Year,IT,Available
+Python Programming,Roger Pressman,Databases,1st Year,ECE,Available
+Cloud Computing,William Stallings,Cloud,3rd Year,IT,Available
+Communication Systems,Guido van Rossum,Programming,1st Year,Civil,Available
+Web Technologies,Tom Mitchell,IoT,1st Year,ECE,Available
+Microprocessors,Guido van Rossum,Cybersecurity,3rd Year,CSE,Available
+Compiler Design,William Stallings,AI/ML,3rd Year,IT,Available
+Cloud Computing,Silberschatz,Electronics,4th Year,Civil,Not Available
+Embedded Systems,Morris Mano,Telecommunications,2nd Year,Mechanical,Available
+Control Systems,Roger Pressman,Databases,4th Year,ECE,Not Available
+Control Systems,Morris Mano,Cybersecurity,1st Year,All,Available
+Signals and Systems,Galvin,IoT,2nd Year,IT,Not Available
+Web Technologies,Achyut Godbole,AI/ML,2nd Year,ECE,Not Available
+Embedded Systems,Roger Pressman,Signal Processing,1st Year,IT,Available
+Computer Networks,Roger Pressman,Computer Science,2nd Year,All,Not Available
+Data Structures in C,Stuart Russell,Telecommunications,1st Year,ECE,Available
+Machine Learning,Silberschatz,Mathematics,1st Year,Mechanical,Not Available
+Operating Systems,Simon Haykin,Programming,1st Year,ECE,Not Available
+Cloud Computing,Stuart Russell,Databases,4th Year,CSE,Not Available
+Digital Electronics,Reema Thareja,Cloud,4th Year,Mechanical,Available
+Communication Systems,Oppenheim,Electronics,1st Year,Mechanical,Available
+Artificial Intelligence,Guido van Rossum,Cloud,3rd Year,IT,Not Available
+Machine Learning,Seema Acharya,Signal Processing,1st Year,IT,Not Available
+Embedded Systems,Oppenheim,AI/ML,1st Year,EEE,Available
+Data Structures in C,Raj Kamal,AI/ML,2nd Year,IT,Available
+Python Programming,Roger Pressman,Mathematics,2nd Year,IT,Available
+Control Systems,B.S. Grewal,Web Development,2nd Year,IT,Available
+Machine Learning,Silberschatz,Signal Processing,1st Year,CSE,Available
+Control Systems,Rajkumar Buyya,Mathematics,3rd Year,IT,Not Available
+Machine Learning,Simon Haykin,IoT,4th Year,Mechanical,Not Available
+Digital Electronics,Aho & Ullman,Programming,3rd Year,Civil,Not Available
+Machine Learning,Reema Thareja,Programming,4th Year,ECE,Not Available
+Web Technologies,Nagrath & Gopal,Signal Processing,3rd Year,EEE,Available
+Artificial Intelligence,Seema Acharya,Electronics,3rd Year,Civil,Available
+Operating Systems,Roger Pressman,Mathematics,1st Year,CSE,Not Available
+Web Technologies,Ramesh Gaonkar,Cloud,3rd Year,Mechanical,Not Available
+Operating Systems,Rajkumar Buyya,Signal Processing,2nd Year,EEE,Available
+Digital Electronics,Rajkumar Buyya,Signal Processing,3rd Year,IT,Available
+Python Programming,Silberschatz,Electronics,1st Year,ECE,Available
+Microprocessors,Raj Kamal,Databases,4th Year,IT,Available
+Web Technologies,William Stallings,Cybersecurity,3rd Year,EEE,Available
+Cryptography,Rajkumar Buyya,Cloud,4th Year,ECE,Not Available
+Artificial Intelligence,Ramesh Gaonkar,Web Development,3rd Year,EEE,Not Available
+Big Data Analytics,Roger Pressman,Databases,2nd Year,EEE,Available
+Big Data Analytics,Oppenheim,Signal Processing,2nd Year,All,Not Available
+Cloud Computing,B.S. Grewal,Electronics,1st Year,CSE,Not Available
+Cryptography,Reema Thareja,Programming,3rd Year,All,Available
+Signals and Systems,William Stallings,Mathematics,3rd Year,CSE,Available
+Software Engineering,Rajkumar Buyya,Cloud,1st Year,Mechanical,Not Available
+Computer Networks,Raj Kamal,Electronics,4th Year,Civil,Not Available
+Microprocessors,Roger Pressman,Cloud,1st Year,ECE,Available
+Digital Electronics,Nagrath & Gopal,Databases,2nd Year,CSE,Not Available
+Embedded Systems,B.S. Grewal,Mathematics,3rd Year,EEE,Available
+Artificial Intelligence,Ramesh Gaonkar,Cloud,1st Year,IT,Not Available
+Operating Systems,Achyut Godbole,Cybersecurity,2nd Year,Mechanical,Not Available
+Digital Electronics,B.S. Grewal,Cybersecurity,3rd Year,IT,Available
+Python Programming,Galvin,Electronics,2nd Year,CSE,Available
+Python Programming,Achyut Godbole,Cybersecurity,2nd Year,EEE,Not Available
+Database Management Systems,B.S. Grewal,Cloud,3rd Year,Civil,Available
+Compiler Design,Tanenbaum,Cybersecurity,2nd Year,Mechanical,Not Available
+Computer Networks,Nagrath & Gopal,Programming,3rd Year,All,Not Available
+Operating Systems,Oppenheim,Telecommunications,1st Year,IT,Available
+Embedded Systems,Simon Haykin,Web Development,3rd Year,ECE,Not Available
+Data Structures in C,Aho & Ullman,Web Development,2nd Year,Mechanical,Not Available
+Artificial Intelligence,Oppenheim,Cloud,1st Year,CSE,Available
+Python Programming,Aho & Ullman,Cybersecurity,1st Year,All,Not Available
+Software Engineering,Guido van Rossum,Cybersecurity,1st Year,ECE,Available
+Python Programming,Ramesh Gaonkar,Cybersecurity,3rd Year,CSE,Available
+Machine Learning,Rajkumar Buyya,Web Development,4th Year,CSE,Available
+Compiler Design,Tom Mitchell,IoT,1st Year,EEE,Available
+Cloud Computing,Simon Haykin,Telecommunications,2nd Year,IT,Not Available
+Signals and Systems,Silberschatz,Databases,2nd Year,CSE,Not Available
+Operating Systems,Simon Haykin,Electronics,3rd Year,CSE,Available
+Embedded Systems,Oppenheim,Mathematics,1st Year,Mechanical,Not Available
+Computer Networks,Oppenheim,Web Development,2nd Year,All,Not Available
+Embedded Systems,Tanenbaum,Electronics,4th Year,Mechanical,Available
+Microprocessors,Guido van Rossum,Databases,4th Year,ECE,Not Available
+Web Technologies,Tanenbaum,AI/ML,4th Year,EEE,Available
+Control Systems,Morris Mano,Signal Processing,2nd Year,EEE,Available
+Machine Learning,Ramesh Gaonkar,Computer Science,1st Year,Mechanical,Available
+Digital Electronics,Simon Haykin,Cybersecurity,1st Year,Mechanical,Available
+Digital Electronics,Guido van Rossum,IoT,3rd Year,ECE,Not Available
+Control Systems,Stuart Russell,Telecommunications,4th Year,All,Available
+Machine Learning,Roger Pressman,IoT,2nd Year,CSE,Available
+Database Management Systems,Silberschatz,Telecommunications,3rd Year,All,Not Available
+Python Programming,Oppenheim,Programming,2nd Year,Mechanical,Not Available
+Artificial Intelligence,Galvin,Cloud,3rd Year,CSE,Not Available
+Cryptography,Simon Haykin,Cybersecurity,3rd Year,ECE,Available
+Python Programming,Morris Mano,Cybersecurity,1st Year,EEE,Not Available
+Web Technologies,Ramesh Gaonkar,Databases,2nd Year,ECE,Available
+Software Engineering,Guido van Rossum,Mathematics,2nd Year,EEE,Available
